@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+C:\Users\Administrator\Documents\mbc\Workspace\remoteNode.js\.metadata\.plugins\org.eclipse.jdt.core
+2501874903.index
+1284074322.index
+2949770239.index
+3351349550.index
